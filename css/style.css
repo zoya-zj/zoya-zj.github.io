@@ -27,6 +27,7 @@ html {
 body {
     display: table-cell;
     vertical-align: middle;
+    padding-left: 20%;
     overflow: auto;
     font-family: 'Courier New', Courier, monospace;
 }
