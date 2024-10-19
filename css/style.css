@@ -33,12 +33,20 @@ div {
     margin: 20px;
 }
 
+figure {
+    margin: 0%; 
+    padding: 0%; 
+    display: contents;
+}
+
 h1 {
     font-size: 40px;
+    margin: 0
 }
-  
+
 h2 {
-    font-size: 30px;
+    font-size: 1.17em;
+    margin-bottom: 5%;
 }
 
 p {
