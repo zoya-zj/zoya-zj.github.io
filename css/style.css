@@ -16,20 +16,33 @@ html {
 body {
     display: table-cell;
     vertical-align: middle;
-    padding-left: 21%;
+    padding-left: 9%;
     overflow: auto;
     font-family: 'Courier New', Courier, monospace;
     color: white;
 }
 
 div {
-    width: 50%;
+    width: 70%;
+    width: 70%;
     border: 15px solid #f6bacb;
     background-color: #f6bacb;
     border-radius: 25px;
     padding: 50px;
     margin: 20px;
 }
+
+h1 {
+    font-size: 40px;
+}
+  
+h2 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 16px;
+} 
 
 .hover-rotate {
     overflow: hidden;
