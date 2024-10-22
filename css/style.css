@@ -53,6 +53,13 @@ p {
     font-size: 16px;
 } 
 
+button {
+    border: none;
+    cursor: pointer;
+    appearance: none;
+    background-color: inherit;
+}
+
 .hover-rotate {
     overflow: hidden;
     min-width: 100%;
@@ -67,4 +74,11 @@ p {
   
 .hover-rotate:hover img {
     transform: scale(1) rotate(10deg);
+}
+
+.fix{
+    position:fixed;
+    bottom:0px;
+    left: 1%;
+    margin-left: -250px;
 }
